@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix dashhhhhhhhhh",
+  "description": "Real-time industrial manufacturing overview, CAD blueprint layout, AOI optical inspection, and X-ray radiography diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
